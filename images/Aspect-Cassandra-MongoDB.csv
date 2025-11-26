@@ -1,6 +1,0 @@
-"Aspect","Cassandra","MongoDB"
-"Type","Wide-column, distributed NoSQL database","Document-oriented NoSQL database"
-"Data model","Tables with rows and flexible columns; optimized for time-series and logs","JSON-like BSON documents in collections, good for nested and flexible schemas"
-"Query language","CQL (Cassandra Query Language), SQL-like for column families","MongoDB Query Language (MQL) with rich operators and aggregations"
-"Strengths","Very high write throughput, linear scalability, multi-region availability","Rich querying, secondary indexes, strong aggregation for analytics and dashboards"
-"Best for","High-velocity, write-heavy, time-series, IoT, log ingestion, global apps","Applications needing flexible schema, complex queries, and real-time dashboards"
