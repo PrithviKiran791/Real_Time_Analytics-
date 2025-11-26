@@ -1,0 +1,395 @@
+amount,category,description,merchant,date,payment_method,is_recurring
+402.99,Personal Care,Purchase at Gym,Gym,2024-12-01 10:25:16,UPI,0
+1382.88,Personal Care,Purchase at Salon,Salon,2024-12-02 10:25:16,Credit Card,0
+313.97,Food & Dining,Purchase at McDonald's,McDonald's,2024-12-02 10:25:16,Credit Card,0
+759.07,Healthcare,Purchase at Hospital,Hospital,2024-12-03 10:25:16,Debit Card,0
+115.5,Transportation,Purchase at Rapido,Rapido,2024-12-03 10:25:16,Debit Card,0
+387.51,Transportation,Purchase at Ola,Ola,2024-12-04 10:25:16,UPI,0
+292.26,Food & Dining,Purchase at McDonald's,McDonald's,2024-12-04 10:25:16,Credit Card,0
+1000.0,Education,Purchase at Books,Books,2024-12-05 10:25:16,Debit Card,0
+781.43,Food & Dining,Purchase at Domino's,Domino's,2024-12-05 10:25:16,UPI,0
+526.16,Other,Purchase at Repair,Repair,2024-12-06 10:25:16,Cash,0
+1476.01,Healthcare,Purchase at Hospital,Hospital,2024-12-06 10:25:16,Credit Card,0
+1397.68,Other,Purchase at Misc,Misc,2024-12-07 10:25:16,Cash,0
+95.57,Transportation,Purchase at Rapido,Rapido,2024-12-07 10:25:16,UPI,0
+279.72,Personal Care,Purchase at Gym,Gym,2024-12-07 10:25:16,UPI,0
+484.69,Other,Purchase at Gift,Gift,2024-12-07 10:25:16,UPI,0
+3532.22,Education,Purchase at Coursera,Coursera,2024-12-08 10:25:16,Cash,0
+1027.12,Groceries,Purchase at DMart,DMart,2024-12-09 10:25:16,Cash,0
+4280.88,Education,Purchase at Coursera,Coursera,2024-12-12 10:25:16,UPI,0
+1738.47,Entertainment,Purchase at Amazon Prime,Amazon Prime,2024-12-13 10:25:16,Cash,0
+2072.09,Utilities,Purchase at Water,Water,2024-12-16 10:25:16,Cash,0
+12220.92,Education,Purchase at Books,Books,2024-12-16 10:25:16,Credit Card,0
+1906.35,Groceries,Purchase at Blinkit,Blinkit,2024-12-17 10:25:16,Credit Card,0
+572.57,Other,Purchase at Repair,Repair,2024-12-17 10:25:16,UPI,0
+147.97,Transportation,Purchase at Ola,Ola,2024-12-17 10:25:16,Cash,0
+2179.44,Groceries,Purchase at Zepto,Zepto,2024-12-18 10:25:16,Credit Card,0
+275.39,Food & Dining,Purchase at Starbucks,Starbucks,2024-12-19 10:25:16,UPI,0
+852.79,Shopping,Purchase at Amazon,Amazon,2024-12-19 10:25:16,Debit Card,0
+152.44,Transportation,Purchase at Uber,Uber,2024-12-19 10:25:16,UPI,0
+545.46,Entertainment,Purchase at BookMyShow,BookMyShow,2024-12-19 10:25:16,UPI,0
+1341.67,Utilities,Purchase at Water,Water,2024-12-21 10:25:16,Debit Card,0
+412.57,Personal Care,Purchase at Grooming,Grooming,2024-12-21 10:25:16,Debit Card,0
+3951.04,Education,Purchase at Books,Books,2024-12-23 10:25:16,Cash,0
+283.97,Food & Dining,Purchase at Starbucks,Starbucks,2024-12-23 10:25:16,Debit Card,0
+648.59,Other,Purchase at Gift,Gift,2024-12-24 10:25:16,Credit Card,0
+490.49,Other,Purchase at Donation,Donation,2024-12-25 10:25:16,Cash,0
+800.66,Shopping,Purchase at Ajio,Ajio,2024-12-25 10:25:16,UPI,0
+141.84,Transportation,Purchase at Rapido,Rapido,2024-12-26 10:25:16,Credit Card,0
+281.45,Food & Dining,Purchase at Zomato,Zomato,2024-12-27 10:25:16,UPI,0
+660.21,Other,Purchase at Gift,Gift,2024-12-29 10:25:16,Cash,0
+839.9,Personal Care,Purchase at Salon,Salon,2024-12-29 10:25:16,Credit Card,0
+1196.33,Utilities,Purchase at Electricity,Electricity,2024-12-30 10:25:16,Cash,0
+684.64,Personal Care,Purchase at Salon,Salon,2025-01-02 10:25:16,Debit Card,0
+733.58,Other,Purchase at Misc,Misc,2025-01-03 10:25:16,UPI,0
+442.06,Other,Purchase at Donation,Donation,2025-01-03 10:25:16,UPI,0
+534.79,Healthcare,Purchase at 1mg,1mg,2025-01-04 10:25:16,Cash,0
+100.4,Transportation,Purchase at Ola,Ola,2025-01-04 10:25:16,Cash,0
+430.11,Other,Purchase at Repair,Repair,2025-01-05 10:25:16,Debit Card,0
+555.51,Other,Purchase at Repair,Repair,2025-01-05 10:25:16,Debit Card,0
+125.48,Transportation,Purchase at Uber,Uber,2025-01-05 10:25:16,Cash,0
+497.02,Entertainment,Purchase at Netflix,Netflix,2025-01-06 10:25:16,UPI,0
+604.27,Other,Purchase at Repair,Repair,2025-01-06 10:25:16,Credit Card,0
+851.66,Groceries,Purchase at Zepto,Zepto,2025-01-06 10:25:16,Debit Card,0
+478.03,Personal Care,Purchase at Gym,Gym,2025-01-07 10:25:16,UPI,0
+1161.59,Shopping,Purchase at Myntra,Myntra,2025-01-08 10:25:16,Credit Card,0
+264.11,Food & Dining,Purchase at Swiggy,Swiggy,2025-01-10 10:25:16,Cash,0
+289.73,Food & Dining,Purchase at Zomato,Zomato,2025-01-10 10:25:16,Cash,0
+430.4,Entertainment,Purchase at BookMyShow,BookMyShow,2025-01-11 10:25:16,UPI,0
+511.47,Shopping,Purchase at Myntra,Myntra,2025-01-11 10:25:16,UPI,0
+1313.67,Utilities,Purchase at Water,Water,2025-01-12 10:25:16,Cash,0
+246.64,Entertainment,Purchase at Spotify,Spotify,2025-01-13 10:25:16,Cash,0
+368.65,Other,Purchase at Gift,Gift,2025-01-16 10:25:16,Credit Card,0
+2327.04,Utilities,Purchase at Water,Water,2025-01-16 10:25:16,UPI,0
+307.63,Healthcare,Purchase at Hospital,Hospital,2025-01-16 10:25:16,Credit Card,0
+136.29,Food & Dining,Purchase at Starbucks,Starbucks,2025-01-18 10:25:16,UPI,0
+290.08,Personal Care,Purchase at Salon,Salon,2025-01-20 10:25:16,Debit Card,0
+394.64,Personal Care,Purchase at Gym,Gym,2025-01-20 10:25:16,UPI,0
+446.42,Entertainment,Purchase at Spotify,Spotify,2025-01-20 10:25:16,Debit Card,0
+976.25,Personal Care,Purchase at Grooming,Grooming,2025-01-21 10:25:16,Credit Card,0
+164.81,Transportation,Purchase at Uber,Uber,2025-01-22 10:25:16,Credit Card,0
+4386.29,Groceries,Purchase at Zepto,Zepto,2025-01-22 10:25:16,Debit Card,0
+342.81,Healthcare,Purchase at Apollo,Apollo,2025-01-22 10:25:16,Debit Card,0
+1295.35,Utilities,Purchase at Electricity,Electricity,2025-01-23 10:25:16,Debit Card,0
+3019.23,Education,Purchase at Books,Books,2025-01-23 10:25:16,Cash,0
+1187.26,Shopping,Purchase at Myntra,Myntra,2025-01-24 10:25:16,Cash,0
+2149.93,Groceries,Purchase at DMart,DMart,2025-01-25 10:25:16,Debit Card,1
+3332.59,Education,Purchase at Tuition,Tuition,2025-01-25 10:25:16,Cash,0
+976.16,Shopping,Purchase at Flipkart,Flipkart,2025-01-26 10:25:16,Credit Card,0
+646.77,Other,Purchase at Gift,Gift,2025-01-26 10:25:16,Cash,0
+94.3,Transportation,Purchase at Rapido,Rapido,2025-01-29 10:25:16,Cash,0
+217.46,Transportation,Purchase at Petrol Pump,Petrol Pump,2025-01-30 10:25:16,Debit Card,0
+315.17,Entertainment,Purchase at BookMyShow,BookMyShow,2025-01-31 10:25:16,Debit Card,0
+1785.92,Entertainment,Purchase at Netflix,Netflix,2025-02-01 10:25:16,Debit Card,0
+2723.85,Groceries,Purchase at Zepto,Zepto,2025-02-01 10:25:16,Credit Card,0
+237.36,Food & Dining,Purchase at Starbucks,Starbucks,2025-02-01 10:25:16,UPI,0
+3960.06,Education,Purchase at Udemy,Udemy,2025-02-02 10:25:16,Credit Card,0
+1432.79,Utilities,Purchase at Mobile,Mobile,2025-02-03 10:25:16,UPI,0
+2557.65,Education,Purchase at Books,Books,2025-02-03 10:25:16,UPI,0
+106.36,Transportation,Purchase at Ola,Ola,2025-02-04 10:25:16,UPI,0
+463.14,Healthcare,Purchase at PharmEasy,PharmEasy,2025-02-04 10:25:16,Credit Card,0
+760.65,Personal Care,Purchase at Salon,Salon,2025-02-05 10:25:16,Cash,0
+465.19,Personal Care,Purchase at Spa,Spa,2025-02-05 10:25:16,UPI,0
+458.55,Healthcare,Purchase at Hospital,Hospital,2025-02-06 10:25:16,Cash,0
+668.63,Other,Purchase at Gift,Gift,2025-02-06 10:25:16,Cash,0
+675.88,Healthcare,Purchase at 1mg,1mg,2025-02-06 10:25:16,Debit Card,0
+2104.79,Utilities,Purchase at Mobile,Mobile,2025-02-08 10:25:16,Cash,0
+1638.45,Education,Purchase at Tuition,Tuition,2025-02-08 10:25:16,UPI,0
+555.5,Other,Purchase at Gift,Gift,2025-02-09 10:25:16,Cash,0
+289.35,Entertainment,Purchase at Amazon Prime,Amazon Prime,2025-02-13 10:25:16,Debit Card,0
+4104.24,Education,Purchase at Tuition,Tuition,2025-02-16 10:25:16,UPI,0
+236.06,Entertainment,Purchase at BookMyShow,BookMyShow,2025-02-16 10:25:16,Credit Card,0
+203.5,Transportation,Purchase at Rapido,Rapido,2025-02-16 10:25:16,Cash,0
+740.84,Personal Care,Purchase at Spa,Spa,2025-02-17 10:25:16,Cash,0
+2992.76,Groceries,Purchase at DMart,DMart,2025-02-17 10:25:16,Credit Card,0
+88.54,Transportation,Purchase at IRCTC,IRCTC,2025-02-20 10:25:16,Credit Card,0
+567.85,Healthcare,Purchase at Apollo,Apollo,2025-02-20 10:25:16,Credit Card,0
+2405.13,Groceries,Purchase at BigBasket,BigBasket,2025-02-22 10:25:16,Credit Card,0
+1313.14,Utilities,Purchase at Internet,Internet,2025-02-28 10:25:16,UPI,0
+569.89,Personal Care,Purchase at Gym,Gym,2025-03-02 10:25:16,UPI,0
+6441.55,Education,Purchase at Coursera,Coursera,2025-03-02 10:25:16,Cash,0
+2204.42,Groceries,Purchase at BigBasket,BigBasket,2025-03-05 10:25:16,UPI,0
+577.33,Other,Purchase at Gift,Gift,2025-03-07 10:25:16,Debit Card,0
+1833.04,Groceries,Purchase at DMart,DMart,2025-03-07 10:25:16,Cash,0
+1028.68,Utilities,Purchase at Internet,Internet,2025-03-08 10:25:16,Debit Card,0
+1583.3,Utilities,Purchase at Electricity,Electricity,2025-03-09 10:25:16,Debit Card,0
+1360.01,Groceries,Purchase at BigBasket,BigBasket,2025-03-10 10:25:16,UPI,0
+655.34,Other,Purchase at Misc,Misc,2025-03-11 10:25:16,Cash,0
+40.89,Transportation,Purchase at Rapido,Rapido,2025-03-13 10:25:16,Cash,0
+2379.67,Groceries,Purchase at Zepto,Zepto,2025-03-14 10:25:16,UPI,0
+2661.57,Groceries,Purchase at DMart,DMart,2025-03-14 10:25:16,UPI,0
+377.25,Personal Care,Purchase at Spa,Spa,2025-03-14 10:25:16,Cash,0
+3334.58,Education,Purchase at Coursera,Coursera,2025-03-15 10:25:16,UPI,0
+467.65,Other,Purchase at Gift,Gift,2025-03-17 10:25:16,Cash,0
+753.02,Other,Purchase at Repair,Repair,2025-03-18 10:25:16,UPI,0
+1779.75,Education,Purchase at Udemy,Udemy,2025-03-19 10:25:16,UPI,0
+112.41,Transportation,Purchase at Uber,Uber,2025-03-20 10:25:16,Credit Card,0
+1346.54,Utilities,Purchase at Electricity,Electricity,2025-03-21 10:25:16,Cash,0
+2920.22,Other,Purchase at Gift,Gift,2025-03-24 10:25:16,Credit Card,0
+298.84,Entertainment,Purchase at Spotify,Spotify,2025-03-24 10:25:16,UPI,0
+1987.0,Groceries,Purchase at BigBasket,BigBasket,2025-03-24 10:25:16,UPI,0
+7334.24,Education,Purchase at Books,Books,2025-03-25 10:25:16,Credit Card,0
+3417.92,Education,Purchase at Books,Books,2025-03-27 10:25:16,Cash,0
+2344.62,Utilities,Purchase at Water,Water,2025-03-27 10:25:16,UPI,0
+385.03,Other,Purchase at Misc,Misc,2025-03-27 10:25:16,Credit Card,0
+351.85,Entertainment,Purchase at Netflix,Netflix,2025-03-27 10:25:16,Cash,1
+362.72,Other,Purchase at Gift,Gift,2025-03-27 10:25:16,Cash,0
+1693.8,Groceries,Purchase at Zepto,Zepto,2025-03-27 10:25:16,Cash,0
+853.07,Shopping,Purchase at Ajio,Ajio,2025-03-29 10:25:16,Debit Card,0
+1932.44,Education,Purchase at Tuition,Tuition,2025-03-29 10:25:16,Debit Card,0
+500.0,Utilities,Purchase at Internet,Internet,2025-03-30 10:25:16,Cash,0
+1644.42,Utilities,Purchase at Mobile,Mobile,2025-03-30 10:25:16,Debit Card,0
+70.44,Transportation,Purchase at Rapido,Rapido,2025-03-31 10:25:16,Debit Card,0
+5807.9,Education,Purchase at Coursera,Coursera,2025-04-01 10:25:16,Credit Card,0
+1585.58,Education,Purchase at Books,Books,2025-04-02 10:25:16,Debit Card,0
+929.74,Utilities,Purchase at Water,Water,2025-04-04 10:25:16,Credit Card,0
+727.04,Healthcare,Purchase at Hospital,Hospital,2025-04-04 10:25:16,Credit Card,0
+220.73,Food & Dining,Purchase at Swiggy,Swiggy,2025-04-06 10:25:16,Credit Card,0
+379.57,Entertainment,Purchase at Amazon Prime,Amazon Prime,2025-04-06 10:25:16,Credit Card,0
+4335.71,Shopping,Purchase at Nykaa,Nykaa,2025-04-08 10:25:16,Cash,0
+1228.52,Shopping,Purchase at Amazon,Amazon,2025-04-08 10:25:16,Cash,1
+1330.28,Education,Purchase at Coursera,Coursera,2025-04-11 10:25:16,Cash,0
+783.19,Food & Dining,Purchase at Starbucks,Starbucks,2025-04-12 10:25:16,UPI,0
+1386.88,Utilities,Purchase at Water,Water,2025-04-14 10:25:16,Credit Card,0
+567.31,Personal Care,Purchase at Spa,Spa,2025-04-15 10:25:16,Debit Card,0
+2191.15,Education,Purchase at Books,Books,2025-04-17 10:25:16,Cash,0
+797.57,Healthcare,Purchase at Hospital,Hospital,2025-04-17 10:25:16,Credit Card,0
+1897.74,Entertainment,Purchase at Netflix,Netflix,2025-04-17 10:25:16,Credit Card,0
+519.45,Healthcare,Purchase at PharmEasy,PharmEasy,2025-04-17 10:25:16,Debit Card,1
+2134.53,Groceries,Purchase at Blinkit,Blinkit,2025-04-19 10:25:16,Credit Card,0
+3201.58,Education,Purchase at Books,Books,2025-04-19 10:25:16,Cash,0
+384.04,Shopping,Purchase at Amazon,Amazon,2025-04-20 10:25:16,UPI,0
+3474.34,Groceries,Purchase at Zepto,Zepto,2025-04-22 10:25:16,Debit Card,0
+4966.87,Groceries,Purchase at BigBasket,BigBasket,2025-04-22 10:25:16,UPI,0
+765.01,Healthcare,Purchase at Apollo,Apollo,2025-04-22 10:25:16,Debit Card,0
+2191.04,Education,Purchase at Coursera,Coursera,2025-04-23 10:25:16,Credit Card,0
+385.71,Entertainment,Purchase at Netflix,Netflix,2025-04-24 10:25:16,UPI,0
+1551.76,Healthcare,Purchase at Apollo,Apollo,2025-04-26 10:25:16,Cash,0
+1358.95,Groceries,Purchase at DMart,DMart,2025-04-27 10:25:16,Debit Card,0
+286.9,Other,Purchase at Gift,Gift,2025-04-28 10:25:16,Cash,0
+604.11,Healthcare,Purchase at 1mg,1mg,2025-04-28 10:25:16,Credit Card,0
+127.43,Transportation,Purchase at Rapido,Rapido,2025-04-30 10:25:16,Credit Card,0
+1571.75,Utilities,Purchase at Internet,Internet,2025-05-01 10:25:16,Cash,0
+322.53,Entertainment,Purchase at Netflix,Netflix,2025-05-01 10:25:16,UPI,0
+323.06,Other,Purchase at Repair,Repair,2025-05-02 10:25:16,Cash,1
+126.44,Food & Dining,Purchase at Zomato,Zomato,2025-05-05 10:25:16,Debit Card,0
+100.0,Entertainment,Purchase at Spotify,Spotify,2025-05-06 10:25:16,UPI,0
+286.9,Entertainment,Purchase at Netflix,Netflix,2025-05-06 10:25:16,UPI,0
+82.97,Transportation,Purchase at IRCTC,IRCTC,2025-05-08 10:25:16,Debit Card,0
+2015.2,Utilities,Purchase at Electricity,Electricity,2025-05-08 10:25:16,Cash,0
+1286.11,Utilities,Purchase at Internet,Internet,2025-05-10 10:25:16,UPI,0
+526.86,Healthcare,Purchase at Apollo,Apollo,2025-05-10 10:25:16,Debit Card,0
+612.39,Other,Purchase at Repair,Repair,2025-05-11 10:25:16,Debit Card,0
+1286.25,Utilities,Purchase at Mobile,Mobile,2025-05-11 10:25:16,Cash,0
+195.84,Transportation,Purchase at Petrol Pump,Petrol Pump,2025-05-11 10:25:16,Cash,0
+519.78,Other,Purchase at Donation,Donation,2025-05-12 10:25:16,Cash,0
+824.39,Food & Dining,Purchase at Starbucks,Starbucks,2025-05-12 10:25:16,Cash,0
+1375.91,Groceries,Purchase at BigBasket,BigBasket,2025-05-14 10:25:16,Cash,0
+3622.87,Shopping,Purchase at Ajio,Ajio,2025-05-15 10:25:16,Credit Card,0
+289.99,Food & Dining,Purchase at McDonald's,McDonald's,2025-05-18 10:25:16,Cash,0
+437.25,Healthcare,Purchase at Apollo,Apollo,2025-05-19 10:25:16,Cash,0
+511.37,Healthcare,Purchase at PharmEasy,PharmEasy,2025-05-20 10:25:16,Cash,0
+374.92,Other,Purchase at Repair,Repair,2025-05-20 10:25:16,UPI,0
+487.41,Shopping,Purchase at Nykaa,Nykaa,2025-05-20 10:25:16,Cash,0
+1163.16,Other,Purchase at Misc,Misc,2025-05-20 10:25:16,Cash,0
+148.66,Food & Dining,Purchase at McDonald's,McDonald's,2025-05-21 10:25:16,UPI,0
+4913.96,Education,Purchase at Coursera,Coursera,2025-05-23 10:25:16,UPI,0
+1408.85,Other,Purchase at Donation,Donation,2025-05-23 10:25:16,Credit Card,0
+556.97,Entertainment,Purchase at Netflix,Netflix,2025-05-23 10:25:16,UPI,0
+298.28,Transportation,Purchase at Rapido,Rapido,2025-05-24 10:25:16,Credit Card,0
+126.91,Transportation,Purchase at Rapido,Rapido,2025-05-24 10:25:16,Debit Card,0
+2138.47,Groceries,Purchase at BigBasket,BigBasket,2025-05-24 10:25:16,Debit Card,0
+745.42,Healthcare,Purchase at Hospital,Hospital,2025-05-25 10:25:16,Debit Card,0
+515.51,Personal Care,Purchase at Grooming,Grooming,2025-05-26 10:25:16,UPI,0
+103.5,Transportation,Purchase at IRCTC,IRCTC,2025-05-26 10:25:16,Debit Card,0
+1909.12,Education,Purchase at Books,Books,2025-05-26 10:25:16,Debit Card,0
+3522.24,Education,Purchase at Books,Books,2025-05-26 10:25:16,UPI,0
+406.82,Healthcare,Purchase at Apollo,Apollo,2025-05-27 10:25:16,UPI,0
+3093.08,Groceries,Purchase at Zepto,Zepto,2025-05-28 10:25:16,Debit Card,0
+345.19,Food & Dining,Purchase at Starbucks,Starbucks,2025-05-28 10:25:16,UPI,0
+400.81,Other,Purchase at Donation,Donation,2025-05-28 10:25:16,Debit Card,0
+3828.57,Shopping,Purchase at Ajio,Ajio,2025-05-30 10:25:16,Debit Card,0
+890.19,Shopping,Purchase at Ajio,Ajio,2025-05-30 10:25:16,Credit Card,0
+555.29,Personal Care,Purchase at Spa,Spa,2025-05-31 10:25:16,Credit Card,0
+247.78,Transportation,Purchase at IRCTC,IRCTC,2025-05-31 10:25:16,Debit Card,0
+3365.47,Education,Purchase at Books,Books,2025-06-04 10:25:16,Credit Card,0
+340.72,Entertainment,Purchase at Spotify,Spotify,2025-06-04 10:25:16,UPI,0
+8868.81,Education,Purchase at Books,Books,2025-06-06 10:25:16,UPI,0
+2625.55,Utilities,Purchase at Electricity,Electricity,2025-06-06 10:25:16,Debit Card,0
+2406.87,Education,Purchase at Coursera,Coursera,2025-06-07 10:25:16,Cash,0
+213.7,Transportation,Purchase at Rapido,Rapido,2025-06-07 10:25:16,Cash,0
+710.73,Personal Care,Purchase at Spa,Spa,2025-06-09 10:25:16,UPI,0
+659.24,Healthcare,Purchase at 1mg,1mg,2025-06-11 10:25:16,Cash,0
+459.91,Transportation,Purchase at Petrol Pump,Petrol Pump,2025-06-12 10:25:16,UPI,0
+319.47,Food & Dining,Purchase at Starbucks,Starbucks,2025-06-14 10:25:16,Debit Card,0
+78.64,Transportation,Purchase at Petrol Pump,Petrol Pump,2025-06-14 10:25:16,UPI,0
+910.01,Food & Dining,Purchase at McDonald's,McDonald's,2025-06-14 10:25:16,Credit Card,0
+1060.07,Shopping,Purchase at Myntra,Myntra,2025-06-15 10:25:16,UPI,0
+3307.36,Utilities,Purchase at Water,Water,2025-06-15 10:25:16,Debit Card,0
+259.31,Food & Dining,Purchase at Zomato,Zomato,2025-06-16 10:25:16,Cash,0
+585.58,Healthcare,Purchase at Apollo,Apollo,2025-06-16 10:25:16,Credit Card,0
+1255.15,Personal Care,Purchase at Gym,Gym,2025-06-17 10:25:16,Cash,0
+225.35,Food & Dining,Purchase at Starbucks,Starbucks,2025-06-17 10:25:16,Debit Card,0
+1040.2,Utilities,Purchase at Internet,Internet,2025-06-17 10:25:16,Cash,0
+643.88,Healthcare,Purchase at PharmEasy,PharmEasy,2025-06-19 10:25:16,Cash,0
+2244.33,Groceries,Purchase at DMart,DMart,2025-06-20 10:25:16,Credit Card,0
+4077.51,Education,Purchase at Coursera,Coursera,2025-06-20 10:25:16,Credit Card,0
+643.39,Healthcare,Purchase at Hospital,Hospital,2025-06-20 10:25:16,Cash,0
+1294.88,Utilities,Purchase at Electricity,Electricity,2025-06-21 10:25:16,Credit Card,0
+727.33,Entertainment,Purchase at Spotify,Spotify,2025-06-22 10:25:16,Debit Card,0
+502.01,Other,Purchase at Gift,Gift,2025-06-22 10:25:16,Debit Card,0
+235.59,Transportation,Purchase at Uber,Uber,2025-06-22 10:25:16,Debit Card,0
+799.98,Shopping,Purchase at Nykaa,Nykaa,2025-06-23 10:25:16,Credit Card,0
+252.38,Transportation,Purchase at Rapido,Rapido,2025-06-23 10:25:16,Credit Card,0
+358.85,Personal Care,Purchase at Gym,Gym,2025-06-24 10:25:16,Credit Card,0
+200.0,Personal Care,Purchase at Gym,Gym,2025-06-24 10:25:16,Cash,0
+331.4,Entertainment,Purchase at Amazon Prime,Amazon Prime,2025-06-27 10:25:16,Debit Card,0
+1767.05,Utilities,Purchase at Internet,Internet,2025-06-27 10:25:16,Debit Card,0
+2727.56,Other,Purchase at Gift,Gift,2025-06-29 10:25:16,Debit Card,0
+166.52,Food & Dining,Purchase at Domino's,Domino's,2025-07-02 10:25:16,Debit Card,0
+1451.14,Utilities,Purchase at Water,Water,2025-07-04 10:25:16,Debit Card,1
+94.56,Transportation,Purchase at Ola,Ola,2025-07-05 10:25:16,Cash,1
+260.63,Personal Care,Purchase at Spa,Spa,2025-07-05 10:25:16,Cash,0
+2646.19,Groceries,Purchase at DMart,DMart,2025-07-07 10:25:16,UPI,0
+722.85,Shopping,Purchase at Myntra,Myntra,2025-07-10 10:25:16,Credit Card,0
+2944.76,Other,Purchase at Gift,Gift,2025-07-12 10:25:16,Cash,0
+2307.24,Groceries,Purchase at Zepto,Zepto,2025-07-12 10:25:16,UPI,0
+456.53,Shopping,Purchase at Ajio,Ajio,2025-07-12 10:25:16,Credit Card,0
+455.39,Other,Purchase at Gift,Gift,2025-07-13 10:25:16,Debit Card,0
+519.13,Shopping,Purchase at Myntra,Myntra,2025-07-13 10:25:16,UPI,0
+1761.27,Utilities,Purchase at Mobile,Mobile,2025-07-14 10:25:16,Cash,0
+200.0,Personal Care,Purchase at Gym,Gym,2025-07-17 10:25:16,UPI,0
+859.82,Personal Care,Purchase at Spa,Spa,2025-07-17 10:25:16,UPI,0
+671.4,Shopping,Purchase at Nykaa,Nykaa,2025-07-21 10:25:16,Debit Card,0
+913.56,Shopping,Purchase at Nykaa,Nykaa,2025-07-21 10:25:16,Debit Card,0
+1058.12,Utilities,Purchase at Internet,Internet,2025-07-21 10:25:16,Debit Card,0
+708.59,Healthcare,Purchase at PharmEasy,PharmEasy,2025-07-22 10:25:16,Credit Card,0
+727.22,Personal Care,Purchase at Gym,Gym,2025-07-23 10:25:16,Debit Card,0
+667.08,Healthcare,Purchase at 1mg,1mg,2025-07-25 10:25:16,UPI,0
+3611.53,Education,Purchase at Tuition,Tuition,2025-07-25 10:25:16,Cash,0
+1332.3,Shopping,Purchase at Amazon,Amazon,2025-07-28 10:25:16,Debit Card,0
+368.88,Personal Care,Purchase at Salon,Salon,2025-07-29 10:25:16,UPI,0
+274.61,Food & Dining,Purchase at Zomato,Zomato,2025-08-02 10:25:16,Cash,0
+2172.31,Entertainment,Purchase at BookMyShow,BookMyShow,2025-08-03 10:25:16,UPI,0
+2160.2,Groceries,Purchase at Zepto,Zepto,2025-08-04 10:25:16,Debit Card,0
+395.92,Other,Purchase at Donation,Donation,2025-08-04 10:25:16,UPI,0
+825.85,Shopping,Purchase at Ajio,Ajio,2025-08-04 10:25:16,Cash,0
+561.81,Personal Care,Purchase at Grooming,Grooming,2025-08-05 10:25:16,Credit Card,0
+205.38,Food & Dining,Purchase at Domino's,Domino's,2025-08-06 10:25:16,UPI,0
+125.79,Transportation,Purchase at Rapido,Rapido,2025-08-06 10:25:16,Cash,0
+498.53,Healthcare,Purchase at PharmEasy,PharmEasy,2025-08-07 10:25:16,Debit Card,0
+763.94,Shopping,Purchase at Nykaa,Nykaa,2025-08-07 10:25:16,Debit Card,0
+484.41,Entertainment,Purchase at Spotify,Spotify,2025-08-07 10:25:16,Cash,0
+454.82,Entertainment,Purchase at Amazon Prime,Amazon Prime,2025-08-07 10:25:16,Debit Card,0
+467.54,Personal Care,Purchase at Salon,Salon,2025-08-08 10:25:16,Debit Card,0
+913.98,Utilities,Purchase at Water,Water,2025-08-10 10:25:16,Cash,0
+3151.06,Shopping,Purchase at Flipkart,Flipkart,2025-08-10 10:25:16,Cash,0
+464.52,Other,Purchase at Donation,Donation,2025-08-13 10:25:16,Cash,0
+154.44,Food & Dining,Purchase at Starbucks,Starbucks,2025-08-13 10:25:16,Cash,0
+489.68,Other,Purchase at Repair,Repair,2025-08-15 10:25:16,Debit Card,0
+1132.78,Utilities,Purchase at Electricity,Electricity,2025-08-16 10:25:16,Cash,0
+538.06,Healthcare,Purchase at Hospital,Hospital,2025-08-17 10:25:16,Debit Card,0
+312.05,Personal Care,Purchase at Grooming,Grooming,2025-08-18 10:25:16,UPI,0
+666.18,Shopping,Purchase at Myntra,Myntra,2025-08-19 10:25:16,UPI,0
+507.42,Personal Care,Purchase at Spa,Spa,2025-08-19 10:25:16,Cash,0
+161.4,Transportation,Purchase at Rapido,Rapido,2025-08-21 10:25:16,Credit Card,0
+2746.9,Education,Purchase at Books,Books,2025-08-23 10:25:16,UPI,0
+1327.56,Groceries,Purchase at DMart,DMart,2025-08-23 10:25:16,Debit Card,0
+1190.74,Shopping,Purchase at Amazon,Amazon,2025-08-23 10:25:16,Cash,0
+2989.56,Education,Purchase at Books,Books,2025-08-26 10:25:16,Debit Card,0
+158.22,Transportation,Purchase at Uber,Uber,2025-08-26 10:25:16,Credit Card,0
+238.63,Transportation,Purchase at IRCTC,IRCTC,2025-08-28 10:25:16,Debit Card,0
+2449.17,Healthcare,Purchase at PharmEasy,PharmEasy,2025-08-28 10:25:16,Debit Card,0
+209.52,Food & Dining,Purchase at Domino's,Domino's,2025-08-29 10:25:16,UPI,0
+433.91,Entertainment,Purchase at BookMyShow,BookMyShow,2025-08-31 10:25:16,Debit Card,0
+574.24,Other,Purchase at Gift,Gift,2025-09-02 10:25:16,Credit Card,0
+2076.36,Groceries,Purchase at Blinkit,Blinkit,2025-09-03 10:25:16,Credit Card,0
+209.39,Transportation,Purchase at Uber,Uber,2025-09-03 10:25:16,UPI,0
+316.96,Other,Purchase at Repair,Repair,2025-09-03 10:25:16,Debit Card,0
+961.9,Utilities,Purchase at Mobile,Mobile,2025-09-03 10:25:16,Credit Card,0
+1972.44,Groceries,Purchase at BigBasket,BigBasket,2025-09-04 10:25:16,Debit Card,0
+444.05,Entertainment,Purchase at Netflix,Netflix,2025-09-04 10:25:16,Credit Card,0
+370.64,Personal Care,Purchase at Spa,Spa,2025-09-04 10:25:16,UPI,0
+988.03,Shopping,Purchase at Ajio,Ajio,2025-09-07 10:25:16,Cash,0
+2663.97,Education,Purchase at Coursera,Coursera,2025-09-08 10:25:16,Credit Card,0
+371.68,Personal Care,Purchase at Salon,Salon,2025-09-10 10:25:16,Credit Card,0
+404.1,Other,Purchase at Gift,Gift,2025-09-12 10:25:16,Cash,0
+133.7,Food & Dining,Purchase at Starbucks,Starbucks,2025-09-13 10:25:16,Cash,0
+678.73,Other,Purchase at Misc,Misc,2025-09-13 10:25:16,Cash,1
+1081.77,Shopping,Purchase at Amazon,Amazon,2025-09-13 10:25:16,Cash,0
+1228.2,Utilities,Purchase at Water,Water,2025-09-16 10:25:16,Debit Card,0
+412.05,Personal Care,Purchase at Spa,Spa,2025-09-16 10:25:16,UPI,0
+958.19,Shopping,Purchase at Flipkart,Flipkart,2025-09-18 10:25:16,Cash,0
+1745.52,Education,Purchase at Books,Books,2025-09-19 10:25:16,UPI,0
+298.57,Personal Care,Purchase at Gym,Gym,2025-09-19 10:25:16,Credit Card,0
+704.43,Healthcare,Purchase at PharmEasy,PharmEasy,2025-09-19 10:25:16,UPI,0
+2265.28,Education,Purchase at Tuition,Tuition,2025-09-20 10:25:16,Credit Card,0
+580.1,Transportation,Purchase at Petrol Pump,Petrol Pump,2025-09-20 10:25:16,UPI,0
+466.85,Healthcare,Purchase at Hospital,Hospital,2025-09-21 10:25:16,Debit Card,0
+2128.34,Healthcare,Purchase at Apollo,Apollo,2025-09-22 10:25:16,Credit Card,0
+206.8,Food & Dining,Purchase at Domino's,Domino's,2025-09-25 10:25:16,Debit Card,0
+4092.25,Utilities,Purchase at Water,Water,2025-09-26 10:25:16,Debit Card,0
+841.31,Food & Dining,Purchase at Swiggy,Swiggy,2025-09-26 10:25:16,Debit Card,0
+3017.2,Shopping,Purchase at Myntra,Myntra,2025-09-27 10:25:16,Cash,0
+866.85,Utilities,Purchase at Water,Water,2025-09-28 10:25:16,Cash,0
+112.39,Transportation,Purchase at IRCTC,IRCTC,2025-09-30 10:25:16,Credit Card,0
+83.37,Transportation,Purchase at Ola,Ola,2025-10-02 10:25:16,Debit Card,0
+425.05,Other,Purchase at Repair,Repair,2025-10-03 10:25:16,Cash,0
+434.16,Entertainment,Purchase at Amazon Prime,Amazon Prime,2025-10-04 10:25:16,Cash,0
+1253.05,Utilities,Purchase at Electricity,Electricity,2025-10-06 10:25:16,Cash,0
+721.48,Transportation,Purchase at IRCTC,IRCTC,2025-10-07 10:25:16,Debit Card,0
+1546.65,Healthcare,Purchase at Hospital,Hospital,2025-10-11 10:25:16,Credit Card,0
+892.03,Shopping,Purchase at Myntra,Myntra,2025-10-11 10:25:16,Credit Card,0
+1270.34,Utilities,Purchase at Internet,Internet,2025-10-12 10:25:16,Cash,0
+361.05,Personal Care,Purchase at Salon,Salon,2025-10-12 10:25:16,UPI,0
+502.9,Personal Care,Purchase at Salon,Salon,2025-10-12 10:25:16,Debit Card,0
+90.19,Transportation,Purchase at IRCTC,IRCTC,2025-10-13 10:25:16,Cash,0
+3334.93,Groceries,Purchase at DMart,DMart,2025-10-14 10:25:16,Credit Card,0
+2068.02,Groceries,Purchase at Blinkit,Blinkit,2025-10-14 10:25:16,Cash,0
+544.64,Entertainment,Purchase at BookMyShow,BookMyShow,2025-10-16 10:25:16,UPI,0
+2909.4,Education,Purchase at Coursera,Coursera,2025-10-19 10:25:16,Cash,0
+327.11,Transportation,Purchase at Ola,Ola,2025-10-19 10:25:16,Cash,0
+1835.36,Utilities,Purchase at Electricity,Electricity,2025-10-19 10:25:16,Credit Card,0
+1414.32,Healthcare,Purchase at PharmEasy,PharmEasy,2025-10-20 10:25:16,Cash,0
+1217.16,Utilities,Purchase at Electricity,Electricity,2025-10-20 10:25:16,Debit Card,0
+5252.63,Groceries,Purchase at DMart,DMart,2025-10-21 10:25:16,Credit Card,0
+200.66,Transportation,Purchase at Rapido,Rapido,2025-10-23 10:25:16,Cash,1
+638.47,Healthcare,Purchase at Apollo,Apollo,2025-10-24 10:25:16,UPI,0
+556.46,Other,Purchase at Repair,Repair,2025-10-24 10:25:16,UPI,0
+2378.36,Education,Purchase at Books,Books,2025-10-25 10:25:16,Credit Card,0
+2490.4,Education,Purchase at Udemy,Udemy,2025-10-26 10:25:16,Debit Card,0
+233.88,Entertainment,Purchase at Spotify,Spotify,2025-10-29 10:25:16,Credit Card,0
+1607.5,Utilities,Purchase at Electricity,Electricity,2025-10-29 10:25:16,Credit Card,0
+606.44,Healthcare,Purchase at Hospital,Hospital,2025-10-30 10:25:16,Credit Card,0
+943.46,Shopping,Purchase at Ajio,Ajio,2025-10-31 10:25:16,Cash,0
+227.2,Personal Care,Purchase at Spa,Spa,2025-11-01 10:25:16,Cash,0
+576.25,Healthcare,Purchase at 1mg,1mg,2025-11-02 10:25:16,Credit Card,0
+1215.33,Shopping,Purchase at Flipkart,Flipkart,2025-11-03 10:25:16,Credit Card,0
+2272.99,Utilities,Purchase at Water,Water,2025-11-04 10:25:16,Debit Card,0
+152.16,Transportation,Purchase at Ola,Ola,2025-11-04 10:25:16,UPI,0
+3417.51,Education,Purchase at Coursera,Coursera,2025-11-04 10:25:16,UPI,0
+1527.73,Utilities,Purchase at Water,Water,2025-11-06 10:25:16,UPI,0
+2289.47,Groceries,Purchase at Blinkit,Blinkit,2025-11-06 10:25:16,Debit Card,0
+149.26,Entertainment,Purchase at Netflix,Netflix,2025-11-07 10:25:16,Debit Card,0
+1415.66,Utilities,Purchase at Water,Water,2025-11-09 10:25:16,Cash,0
+385.8,Entertainment,Purchase at Amazon Prime,Amazon Prime,2025-11-10 10:25:16,UPI,0
+1215.89,Shopping,Purchase at Flipkart,Flipkart,2025-11-11 10:25:16,Credit Card,0
+560.97,Healthcare,Purchase at PharmEasy,PharmEasy,2025-11-11 10:25:16,Cash,0
+537.18,Personal Care,Purchase at Grooming,Grooming,2025-11-12 10:25:16,UPI,0
+1239.55,Groceries,Purchase at Zepto,Zepto,2025-11-12 10:25:16,UPI,0
+4472.1,Utilities,Purchase at Mobile,Mobile,2025-11-13 10:25:16,Cash,0
+435.61,Healthcare,Purchase at Apollo,Apollo,2025-11-13 10:25:16,Cash,0
+403.19,Entertainment,Purchase at BookMyShow,BookMyShow,2025-11-13 10:25:16,UPI,0
+2221.37,Education,Purchase at Tuition,Tuition,2025-11-13 10:25:16,UPI,0
+726.31,Healthcare,Purchase at Hospital,Hospital,2025-11-15 10:25:16,Credit Card,0
+369.47,Other,Purchase at Donation,Donation,2025-11-16 10:25:16,UPI,0
+272.21,Personal Care,Purchase at Grooming,Grooming,2025-11-17 10:25:16,Cash,0
+2415.44,Groceries,Purchase at DMart,DMart,2025-11-20 10:25:16,UPI,0
+1516.43,Utilities,Purchase at Mobile,Mobile,2025-11-20 10:25:16,Debit Card,0
+3159.5,Education,Purchase at Books,Books,2025-11-21 10:25:16,Cash,0
+3403.57,Education,Purchase at Udemy,Udemy,2025-11-21 10:25:16,Cash,0
+668.32,Shopping,Purchase at Myntra,Myntra,2025-11-21 10:25:16,Cash,0
+2069.46,Education,Purchase at Books,Books,2025-11-24 10:25:16,UPI,0
+900.94,Food & Dining,Purchase at Starbucks,Starbucks,2025-11-25 10:25:16,UPI,0
+10936.79,Education,Purchase at Tuition,Tuition,2025-11-25 10:25:16,UPI,0
+760.07,Shopping,Purchase at Nykaa,Nykaa,2025-11-25 10:25:16,Credit Card,0

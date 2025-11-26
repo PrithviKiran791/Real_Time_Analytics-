@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  # SERVICE 1: The Database
+  cassandra-db:
+    image: cassandra:latest
+    container_name: my-cassandra
+    ports:
+      - "9042:9042"
+    environment:
+      - CASSANDRA_CLUSTER_NAME=PaymentCluster
+      - CASSANDRA_RPC_ADDRESS=0.0.0.0
+    volumes:
+      # Persist data even if container is deleted
+      - cassandra_data:/var/lib/cassandra
+    healthcheck:
+      test: ["CMD-SHELL", "[ $$(nodetool statusgossip) = running ] || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # SERVICE 2: Your Python Application
+  payment-app:
+    build: .
+    container_name: payment-analytics-app
+    depends_on:
+      - cassandra-db
+    ports:
+      - "8501:8501"  # Streamlit Port
+    volumes:
+      - .:/app       # Live code editing (syncs your laptop folder to container)
+    environment:
+      # Tell Python to look for the DB at "cassandra-db", not "127.0.0.1"
+      - CASSANDRA_HOST=cassandra-db
+    command: tail -f /dev/null  # Keeps container running so you can execute commands manually
+
+volumes:
+  cassandra_data:
