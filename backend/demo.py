@@ -10,7 +10,8 @@ print("--- LIGHTWEIGHT REAL-TIME DEMO ---")
 
 # --- CONFIGURATION ---
 # UPDATE THIS to match where you saved the new file!
-FILE_PATH = r"C:\Users\prith\Desktop\My Projects\DBMS\data\transactions.csv"
+FILE_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "transactions.csv")
+
 
 # 1. Connect to Cassandra
 print("[1/4] Connecting to Cassandra...")
